@@ -40,8 +40,8 @@ A real-time monitoring system for AI agents with human-in-the-loop feedback capa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agent-supervisor.git
-   cd agent-supervisor
+   git clone https://github.com/yourusername/CoAgent.git
+   cd CoAgent
    ```
 
 2. Set up backend:
